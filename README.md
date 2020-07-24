@@ -4,11 +4,11 @@
 ### Description
 
 Create a new survey, send it to a list of recipients. 
+
 After the user clicks on the button you will receive an information about what was clicked.
 
 ### Installation
 ```sh
-
 $ npm install 
 $ npm run dev
 ```
