@@ -9,7 +9,7 @@ After the user clicks on the button you will receive an information about what w
 ### Installation
 ```sh
 
-$ npm install -d
+$ npm install 
 $ npm run dev
 ```
 
@@ -26,10 +26,10 @@ $ npm run dev
 https://infinite-hamlet-55883.herokuapp.com/
 
 ### Additional Tech
-ReduxForm
-ngrok
-Materialize CSS
-cookie session
-lodash
-passport
-axios
+- ReduxForm
+- ngrok
+- Materialize CSS
+- cookie session
+- lodash
+- passport
+- axios
