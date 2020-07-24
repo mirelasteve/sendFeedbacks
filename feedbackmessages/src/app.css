@@ -1,0 +1,84 @@
+body{
+    background-image: linear-gradient(to right top, #3d6870, #3a626c, #375c68, #345664, #32505f, #365b67, #3c656f, #437075, #608e84, #8aab8f, #bdc59c, #f5deb3);    background-repeat:no-repeat;
+    background-size:cover;
+    height:100%;
+}
+ .no-shadows {
+    box-shadow: none!important;
+}
+/* Margins */
+.mt-5{
+    margin-top:5%;
+}
+.mt-10{
+    margin-top:10%;
+}
+.mt-15{
+    margin-top:15%;
+}
+.ml-1{
+    margin-left:1%
+}
+.ml-5{
+    margin-left:5%
+}
+.mr-5{
+    margin-right:5%;
+}
+/* Application Colors */
+.text-light-app{
+    color:#F5DEB3;
+}
+.bg-light-app{
+    background-color:#F5DEB3;
+}
+.text-darken-app{
+    color:#2f4858
+}
+
+.bold{
+    font-weight:bold;
+}
+
+/* Surveys Css */
+
+.subject {
+    color:#2f4858;
+    text-transform: capitalize;
+    margin:auto 0%;
+}
+
+/* Forms css */
+.fontSize-1rem{
+    font-size:1rem;
+}
+::placeholder{
+    color:#707070
+}
+.yesButton {
+    background-color: #4CAB32; /* Green */
+                    border: none;
+                    color: white;
+                    padding: 15px 32px;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+}
+.noButton {
+    background-color:orange;
+                    border: none;
+                    color: red;
+                    padding: 15px 32px;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+}
+.displayInline{
+    display: inline;
+}
+
+.pointer{
+    cursor: pointer !important;
+}
