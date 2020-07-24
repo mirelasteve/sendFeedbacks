@@ -1,4 +1,4 @@
-# sendFeedbacks
+# Feedbacks
 ### Author: Mirela Tsvetkova
 
 ### Description
